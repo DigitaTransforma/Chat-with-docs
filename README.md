@@ -2,6 +2,12 @@
 - A test project for ProtonLabs
 - WebApp deployed on URL: https://proton-labs-chat-with-your-docs.streamlit.app
 
+## Note:
+- I know this project is supposed to be built with JS as frontend.
+- I decided to build it a different way which you'll see below cos I am not a JS developer. 
+- Project instruction remains intact but I didn't use JS as frontend.
+- Project goal was accomplished.
+
 ## Overview
 The "Chat With Your Doc" project is a web application designed to allow users to upload PDF, DOC, or TXT documents and ask questions about their content. The application utilizes various natural language processing (NLP) techniques and tools to provide detailed and accurate responses based on the information in the uploaded documents.
 
@@ -25,8 +31,8 @@ The "Chat With Your Doc" project is a web application designed to allow users to
 1. Ensure you have Python installed on your system.
 2. Install the required dependencies listed in the `requirements.txt` file using `pip install -r requirements.txt`.
 3. Set up environment variables including the Google API key.
-4. Run the Python script containing the Streamlit application (`streamlit run chat-pdv-adv.py`).
-5. Access the web application through the provided URL which is often (http://localhost:8501)
+4. Run the Python script containing the Streamlit application using ( streamlit run chat-pdv-adv.py ).
+5. Access the web application through the provided URL which is often ( http://localhost:8501 )
 
 ## Supported File Types
 The application supports the following file types for document upload:
