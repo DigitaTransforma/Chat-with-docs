@@ -1,13 +1,3 @@
-# Chat With Your Doc
-- A test project for ProtonLabs
-- WebApp deployed on URL: https://proton-labs-chat-with-your-docs.streamlit.app
-
-## Note:
-- I know this project is supposed to be built with JS as frontend.
-- I decided to build it a different way which you'll see below cos I am not a JS developer. 
-- Project instruction remains intact but I didn't use JS as frontend.
-- Project goal was accomplished.
-
 ## Overview
 The "Chat With Your Doc" project is a web application designed to allow users to upload PDF, DOC, or TXT documents and ask questions about their content. The application utilizes various natural language processing (NLP) techniques and tools to provide detailed and accurate responses based on the information in the uploaded documents.
 
